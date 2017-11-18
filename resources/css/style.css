@@ -1,4 +1,6 @@
-
+html {
+  text-align: center;
+}
 .main h1 {
   font-size: 70px;
   font-weight: bold;
@@ -15,5 +17,31 @@
 
 .btn-nav {
   font-size: 18px;
+  color: white;
+}
+
+.middle h2 {
+  font-size: 32px;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.item h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.item {
+  font-family:  Helvetica;
+  font-size: 14px;
+}
+
+.supporting {
+  background-image: url(../images/the-flatiron-building.png);
+  background-size: cover;
+  font-size: 23px;
+  font-family: Helvetica;
+  font-weight: bold;
   color: white;
 }
