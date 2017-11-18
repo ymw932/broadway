@@ -1,5 +1,4 @@
-html {
-  text-align: center;
+
 }
 .main h1 {
   font-size: 70px;
@@ -24,17 +23,20 @@ html {
   font-size: 32px;
   font-family: Helvetica;
   font-weight: bold;
+  text-align: center;
 }
 
 .item h3 {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
 }
 
 .item {
   font-family:  Helvetica;
   font-size: 14px;
+  text-align: center;
 }
 
 .supporting {
@@ -44,4 +46,12 @@ html {
   font-family: Helvetica;
   font-weight: bold;
   color: white;
+}
+
+.footer {
+  background-size: cover;
+  font-family: Helvetica;
+  background-color: dimgrey;
+  
+
 }
