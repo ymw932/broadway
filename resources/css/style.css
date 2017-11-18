@@ -17,6 +17,7 @@
 .btn-nav {
   font-size: 18px;
   color: white;
+
 }
 
 .middle h2 {
@@ -52,6 +53,10 @@
   background-size: cover;
   font-family: Helvetica;
   background-color: dimgrey;
-  
+}
 
+span {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
 }
